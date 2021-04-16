@@ -1,7 +1,18 @@
-### Hi there 👋
-
 <!--
-**DifaHRahman/DifaHRahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## 💬 Introduction
+Hi! I'm Difa Habiba Rahman from Bandung, Indonesia. I'm currently studying as an Informatics Engineering at Bandung Institute of Technology (ITB) as an undergraduate. I am eager to learn, and I'm most interested in UI/UX Engineering and Software Engineering. Feel free to contact me!
+
+## Projects
+
+## Experience
+
+## Tools and Languages
+
+## Github Stats Summary
+
+## 📫 Contact
+Reach me via LinkedIn or Email!
 
 Here are some ideas to get you started:
 
@@ -13,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
