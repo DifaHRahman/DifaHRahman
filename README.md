@@ -7,9 +7,9 @@ Hi! I'm Difa Habiba Rahman from Bandung, Indonesia. I'm currently studying as an
 
 
 ## 📫 Contact
-<!--Reach me via LinkedIn or Email!
+Reach me via LinkedIn or Email!
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
