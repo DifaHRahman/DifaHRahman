@@ -1,18 +1,13 @@
-<!--
+
 
 ## 💬 Introduction
 Hi! I'm Difa Habiba Rahman from Bandung, Indonesia. I'm currently studying as an Informatics Engineering at Bandung Institute of Technology (ITB) as an undergraduate. I am eager to learn, and I'm most interested in UI/UX Engineering and Software Engineering. Feel free to contact me!
 
-## Projects
+<!--## Tools and Languages-->
 
-## Experience
-
-## Tools and Languages
-
-## Github Stats Summary
 
 ## 📫 Contact
-Reach me via LinkedIn or Email!
+<!--Reach me via LinkedIn or Email!
 
 Here are some ideas to get you started:
 
